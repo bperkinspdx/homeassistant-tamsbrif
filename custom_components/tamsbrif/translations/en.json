@@ -1,0 +1,64 @@
+{
+  "config": {
+      "step": {
+          "user": {
+              "title": "Configure TaMSBRIF",
+              "description": "Set up the scenes and sensors for TOD and Motion Scenes with Buttons and RGB Indicator Feedback",
+              "data": {
+                  "night_scene": "Night Scene",
+                  "early_morning_scene": "Early Morning Scene",
+                  "morning_scene": "Morning Scene",
+                  "day_scene": "Day Scene",
+                  "early_evening_scene": "Early Evening Scene",
+                  "evening_scene": "Evening Scene",
+                  "late_evening_scene": "Late Evening Scene",
+                  "early_night_scene": "Early Night Scene",
+                  "off_scene": "Off Scene",
+                  "binary_sensor": "Motion Sensor",
+                  "disable_sensor": "Disable Sensor",
+                  "enable_event": "Enable Event",
+                  "disable_event": "Disable Event",
+                  "rgb_light": "RGB Light",
+                  "enable_color": "Enable Color",
+                  "disable_color": "Disable Color",
+                  "already_color": "Already in Requested State Color",
+                  "color_duration": "Color Duration (seconds)",
+                  "off_delay": "Off Delay (seconds)",
+                  "brighter_event": "Brighter Event",
+                  "dimmer_event": "Dimmer Event"
+              }
+          }
+      }
+  },
+  "options": {
+      "step": {
+          "init": {
+              "title": "Configure TaMSBRIF Options",
+              "description": "Set up the scenes and sensors for TOD and Motion Scenes with Buttons and RGB Indicator Feedback",
+              "data": {
+                  "night_scene": "Night Scene",
+                  "early_morning_scene": "Early Morning Scene",
+                  "morning_scene": "Morning Scene",
+                  "day_scene": "Day Scene",
+                  "early_evening_scene": "Early Evening Scene",
+                  "evening_scene": "Evening Scene",
+                  "late_evening_scene": "Late Evening Scene",
+                  "early_night_scene": "Early Night Scene",
+                  "off_scene": "Off Scene",
+                  "binary_sensor": "Motion Sensor",
+                  "disable_sensor": "Disable Sensor",
+                  "enable_event": "Enable Event",
+                  "disable_event": "Disable Event",
+                  "rgb_light": "RGB Light",
+                  "enable_color": "Enable Color",
+                  "disable_color": "Disable Color",
+                  "already_color": "Already in Requested State Color",
+                  "color_duration": "Color Duration (seconds)",
+                  "off_delay": "Off Delay (seconds)",
+                  "brighter_event": "Brighter Event",
+                  "dimmer_event": "Dimmer Event"
+              }
+          }
+      }
+  }
+}

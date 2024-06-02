@@ -1,0 +1,11 @@
+{
+    "domain": "tamsbrif",
+    "name": "TaMSBRIF",
+    "version": "0.1",
+    "documentation": "https://github.com/bperkinspdx/homeassistant-tamsbrif/blob/main/README.md",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@bperkinspdx"],
+    "config_flow": true
+  }
+  
